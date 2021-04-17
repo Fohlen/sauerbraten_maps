@@ -1,0 +1,1202 @@
+# mtl file of Cube 2 level
+
+newmtl slot1
+map_Kd packages/textures/default.png
+
+newmtl slot2
+map_Kd packages/textures/nieb/garden/sand1.jpg
+
+newmtl slot6
+map_Kd packages/textures/terrain_soc/rock_grey2.jpg
+
+newmtl slot18
+map_Kd packages/textures/medieval_soc/floor_steptop1c.jpg
+
+newmtl slot21
+map_Kd packages/textures/medieval_soc/metal1.jpg
+
+newmtl slot24
+map_Kd packages/textures/medieval_soc/rooftile1.jpg
+
+newmtl slot25
+map_Kd packages/textures/medieval_soc/stone1.jpg
+
+newmtl slot27
+map_Kd packages/textures/medieval_soc/stone_trim1.jpg
+
+newmtl slot31
+map_Kd packages/textures/medieval_soc/wood_browndark.jpg
+
+newmtl slot32
+map_Kd packages/textures/medieval_soc/wood_brownlight.jpg
+
+newmtl slot33
+map_Kd packages/textures/medieval_soc/wood_grey.jpg
+
+newmtl slot38
+map_Kd packages/textures/yves_allaire/ex/clangfloor_01_d.jpg
+
+newmtl slot39
+map_Kd packages/textures/yves_allaire/ex/clangfloor_01b_d.jpg
+
+newmtl slot40
+map_Kd packages/textures/yves_allaire/ex/cretebase_01_d.jpg
+
+newmtl slot42
+map_Kd packages/textures/yves_allaire/ex/cretebase_03_dark_d.jpg
+
+newmtl slot48
+map_Kd packages/textures/yves_allaire/ex/deswall_01_d.jpg
+
+newmtl slot49
+map_Kd packages/textures/yves_allaire/ex/floor_grate03_d.jpg
+
+newmtl slot50
+map_Kd packages/textures/yves_allaire/ex/floor_mtl_grate_01_d.jpg
+
+newmtl slot51
+map_Kd packages/textures/yves_allaire/ex/floor_mtl_wrn_01_d.jpg
+
+newmtl slot52
+map_Kd packages/textures/yves_allaire/ex/floor_simple_05_d.jpg
+
+newmtl slot53
+map_Kd packages/textures/yves_allaire/ex/floor_simplines_d.jpg
+
+newmtl slot55
+map_Kd packages/textures/yves_allaire/ex/floor_tread_01_d.jpg
+
+newmtl slot58
+map_Kd packages/textures/yves_allaire/ex/metal_supp_01_d.jpg
+
+newmtl slot59
+map_Kd packages/textures/yves_allaire/ex/metal_wall_02_d.jpg
+
+newmtl slot60
+map_Kd packages/textures/yves_allaire/ex/mtl_bigplate_04_d.jpg
+
+newmtl slot64
+map_Kd packages/textures/yves_allaire/ex/q2_01_d.jpg
+
+newmtl slot65
+map_Kd packages/textures/yves_allaire/ex/q2_01b_d.jpg
+
+newmtl slot66
+map_Kd packages/textures/yves_allaire/ex/q2_01e_d.jpg
+
+newmtl slot67
+map_Kd packages/textures/yves_allaire/ex/rndfloor_01_d.jpg
+
+newmtl slot68
+map_Kd packages/textures/yves_allaire/ex/rndfloor_02_d.jpg
+
+newmtl slot69
+map_Kd packages/textures/yves_allaire/ex/rplates_01_d.jpg
+
+newmtl slot70
+map_Kd packages/textures/yves_allaire/ex/steptop_01_d.jpg
+
+newmtl slot71
+map_Kd packages/textures/yves_allaire/ex/trim_01_d.jpg
+
+newmtl slot72
+map_Kd packages/textures/yves_allaire/ex/trim_baseboard_d.jpg
+
+newmtl slot73
+map_Kd packages/textures/yves_allaire/ex/trim_baseboard_02_d.jpg
+
+newmtl slot74
+map_Kd packages/textures/yves_allaire/ex/trim_baseboard_03_d.jpg
+
+newmtl slot75
+map_Kd packages/textures/yves_allaire/ex/trim_psimple_04_d.jpg
+
+newmtl slot76
+map_Kd packages/textures/yves_allaire/ex/trim_psimple_05_d.jpg
+
+newmtl slot77
+map_Kd packages/textures/yves_allaire/ex/trim_simple03_d.jpg
+
+newmtl slot78
+map_Kd packages/textures/yves_allaire/ex/trim_simple_01_d.jpg
+
+newmtl slot79
+map_Kd packages/textures/yves_allaire/ex/trim_support_03_d.jpg
+
+newmtl slot80
+map_Kd packages/textures/yves_allaire/ex/trim_vert_01_d.jpg
+
+newmtl slot81
+map_Kd packages/textures/yves_allaire/ex/wall_01_d.jpg
+
+newmtl slot83
+map_Kd packages/textures/yves_allaire/ex/wall_b01_d.jpg
+
+newmtl slot84
+map_Kd packages/textures/yves_allaire/ex/wall_bigrib_02_d.jpg
+
+newmtl slot85
+map_Kd packages/textures/yves_allaire/ex/wall_bplate_06_d.jpg
+
+newmtl slot86
+map_Kd packages/textures/yves_allaire/ex/wall_panel_05_d.jpg
+
+newmtl slot89
+map_Kd packages/textures/yves_allaire/ex/wall_pipe_d.jpg
+
+newmtl slot94
+map_Kd packages/textures/yves_allaire/ex/metal_base_01_d.jpg
+
+newmtl slot95
+map_Kd packages/textures/yves_allaire/ex/metal_base_02_d.jpg
+
+newmtl slot96
+map_Kd packages/textures/yves_allaire/ex/metal_base_03_d.jpg
+
+newmtl slot97
+map_Kd packages/textures/yves_allaire/ex/metal_base_04_d.jpg
+
+newmtl slot98
+map_Kd packages/textures/yves_allaire/ex/metal_base_05_rust_d.jpg
+
+newmtl slot99
+map_Kd packages/textures/yves_allaire/ex/metal_base_06_rust_d.jpg
+
+newmtl slot100
+map_Kd packages/textures/yves_allaire/ex/metal_base_07_rust_d.jpg
+
+newmtl slot101
+map_Kd packages/textures/yves_allaire/ex/metal_floor_02_d.jpg
+
+newmtl slot102
+map_Kd packages/textures/yves_allaire/ex/metal_rib_01_d.jpg
+
+newmtl slot104
+map_Kd packages/textures/yves_allaire/ex/lightpanel_01_d.jpg
+
+newmtl slot105
+map_Kd packages/philipk/pk01_floor01a_d.jpg
+
+newmtl slot111
+map_Kd packages/philipk/pk01_pan_floor02b_d.jpg
+
+newmtl slot143
+map_Kd packages/philipk/pk01_trim04b_d.jpg
+
+newmtl slot146
+map_Kd packages/philipk/pk01_trim07b_d.jpg
+
+newmtl slot151
+map_Kd packages/mitaman/mm-tile38.jpg
+
+newmtl slot155
+map_Kd packages/mitaman/mm-window5.jpg
+
+newmtl slot163
+map_Kd packages/mitaman/mm-rust07.jpg
+
+newmtl slot188
+map_Kd packages/mitaman/mm-metalcontainer50.jpg
+
+newmtl slot189
+map_Kd packages/mitaman/mm-wood-worn.jpg
+
+newmtl slot190
+map_Kd packages/mitaman/mm-wood-worn.jpg
+
+newmtl slot193
+map_Kd packages/mitaman/mm-bricksmall121.jpg
+
+newmtl slot199
+map_Kd packages/mitaman/mm-cementbase1.jpg
+
+newmtl slot200
+map_Kd packages/mitaman/mm-steellfloor.jpg
+
+newmtl slot204
+map_Kd packages/mitaman/mm-concretebare07.jpg
+
+newmtl slot206
+map_Kd packages/mitaman/mm-concretetrim07a.jpg
+
+newmtl slot215
+map_Kd packages/mitaman/mm-controlplate.jpg
+
+newmtl slot216
+map_Kd packages/mitaman/mm-meters12b.jpg
+
+newmtl slot221
+map_Kd packages/mitaman/mm-tiles126.jpg
+
+newmtl slot228
+map_Kd packages/lunaran/glue1_d.jpg
+
+newmtl slot229
+map_Kd packages/lunaran/glue2_d.jpg
+
+newmtl slot230
+map_Kd packages/lunaran/grate1_d.jpg
+
+newmtl slot283
+map_Kd packages/misanthropx/white.jpg
+
+newmtl slot285
+map_Kd packages/textures/medieval_soc/rooftile1.jpg
+
+newmtl slot286
+map_Kd packages/textures/medieval_soc/rooftile1.jpg
+
+newmtl slot287
+map_Kd packages/textures/medieval_soc/rooftile1.jpg
+
+newmtl slot288
+map_Kd packages/mitaman/mm-metalbase2.jpg
+
+newmtl slot289
+map_Kd packages/mitaman/mm-window5.jpg
+
+newmtl slot290
+map_Kd packages/textures/yves_allaire/ex/q2_01b_d.jpg
+
+newmtl slot291
+map_Kd packages/textures/yves_allaire/ex/metal_base_03_d.jpg
+
+newmtl slot292
+map_Kd packages/mitaman/mm-metalbase2.jpg
+
+newmtl slot293
+map_Kd packages/mitaman/mm-window5.jpg
+
+newmtl slot294
+map_Kd packages/mitaman/mm-tiles126.jpg
+
+newmtl slot295
+map_Kd packages/mitaman/mm-tiles126.jpg
+
+newmtl slot296
+map_Kd packages/mitaman/mm-tiles126.jpg
+
+newmtl slot297
+map_Kd packages/mitaman/mm-tiles126.jpg
+
+newmtl slot298
+map_Kd packages/mitaman/mm-tiles126.jpg
+
+newmtl slot299
+map_Kd packages/textures/yves_allaire/ex/clangfloor_01b_d.jpg
+
+newmtl slot300
+map_Kd packages/textures/yves_allaire/ex/trim_psimple_04_d.jpg
+
+newmtl slot301
+map_Kd packages/textures/yves_allaire/ex/floor_mtl_wrn_01_d.jpg
+
+newmtl slot302
+map_Kd packages/textures/yves_allaire/ex/floor_grate03_d.jpg
+
+newmtl slot303
+map_Kd packages/mitaman/mm-window5.jpg
+
+newmtl slot304
+map_Kd packages/textures/yves_allaire/ex/floor_grate03_d.jpg
+
+newmtl slot305
+map_Kd packages/textures/yves_allaire/ex/floor_grate03_d.jpg
+
+newmtl slot306
+map_Kd packages/textures/yves_allaire/ex/trim_vert_01_d.jpg
+
+newmtl slot307
+map_Kd packages/textures/yves_allaire/ex/trim_vert_01_d.jpg
+
+newmtl slot308
+map_Kd packages/textures/yves_allaire/ex/trim_vert_01_d.jpg
+
+newmtl slot309
+map_Kd packages/textures/yves_allaire/ex/trim_vert_01_d.jpg
+
+newmtl slot310
+map_Kd packages/textures/yves_allaire/ex/trim_vert_01_d.jpg
+
+newmtl slot311
+map_Kd packages/textures/yves_allaire/ex/floor_grate03_d.jpg
+
+newmtl slot312
+map_Kd packages/textures/yves_allaire/ex/floor_grate03_d.jpg
+
+newmtl slot313
+map_Kd packages/textures/yves_allaire/ex/floor_grate03_d.jpg
+
+newmtl slot314
+map_Kd packages/textures/yves_allaire/ex/trim_psimple_05_d.jpg
+
+newmtl slot316
+map_Kd packages/textures/yves_allaire/ex/trim_vert_01_d.jpg
+
+newmtl slot317
+map_Kd packages/textures/yves_allaire/ex/trim_vert_01_d.jpg
+
+newmtl slot318
+map_Kd packages/textures/yves_allaire/ex/trim_vert_01_d.jpg
+
+newmtl slot319
+map_Kd packages/textures/yves_allaire/ex/wall_bplate_06_d.jpg
+
+newmtl slot320
+map_Kd packages/mitaman/mm-metaldoor3.jpg
+
+newmtl slot321
+map_Kd packages/textures/yves_allaire/ex/floor_mtl_wrn_01_d.jpg
+
+newmtl slot324
+map_Kd packages/textures/yves_allaire/ex/floor_mtl_wrn_01_d.jpg
+
+newmtl slot325
+map_Kd packages/textures/yves_allaire/ex/trim_psimple_04_d.jpg
+
+newmtl slot326
+map_Kd packages/textures/yves_allaire/ex/trim_psimple_04_d.jpg
+
+newmtl slot327
+map_Kd packages/textures/yves_allaire/ex/trim_psimple_04_d.jpg
+
+newmtl slot328
+map_Kd packages/textures/yves_allaire/ex/steptop_01_d.jpg
+
+newmtl slot329
+map_Kd packages/textures/yves_allaire/ex/mtl_panel_03_d.jpg
+
+newmtl slot330
+map_Kd packages/textures/yves_allaire/ex/metal_plate_01b_d.jpg
+
+newmtl slot331
+map_Kd packages/textures/yves_allaire/ex/floor_mtl_wrn_01_d.jpg
+
+newmtl slot335
+map_Kd packages/textures/yves_allaire/ex/light_u201_d.jpg
+
+newmtl slot336
+map_Kd packages/textures/yves_allaire/ex/wall_bigrib_02_d.jpg
+
+newmtl slot337
+map_Kd packages/textures/yves_allaire/ex/floor_simple_05_d.jpg
+
+newmtl slot338
+map_Kd packages/textures/yves_allaire/ex/floor_simple_05_d.jpg
+
+newmtl slot339
+map_Kd packages/textures/yves_allaire/ex/floor_simple_05_d.jpg
+
+newmtl slot340
+map_Kd packages/philipk/pk01_trim07b_d.jpg
+
+newmtl slot341
+map_Kd packages/philipk/pk01_trim07b_d.jpg
+
+newmtl slot342
+map_Kd packages/philipk/pk01_trim07b_d.jpg
+
+newmtl slot343
+map_Kd packages/philipk/pk01_trim07b_d.jpg
+
+newmtl slot345
+map_Kd packages/philipk/pk01_trim07b_d.jpg
+
+newmtl slot346
+map_Kd packages/philipk/pk01_trim07b_d.jpg
+
+newmtl slot348
+map_Kd packages/philipk/pk01_trim07b_d.jpg
+
+newmtl slot350
+map_Kd packages/textures/yves_allaire/ex/trim_baseboard_d.jpg
+
+newmtl slot351
+map_Kd packages/textures/yves_allaire/ex/q2_01b_d.jpg
+
+newmtl slot352
+map_Kd packages/textures/yves_allaire/ex/metal_floor_02_d.jpg
+
+newmtl slot353
+map_Kd packages/textures/yves_allaire/ex/trim_vert_01_d.jpg
+
+newmtl slot354
+map_Kd packages/textures/yves_allaire/ex/steptop_01_d.jpg
+
+newmtl slot355
+map_Kd packages/textures/yves_allaire/ex/metal_floor_02_d.jpg
+
+newmtl slot356
+map_Kd packages/textures/yves_allaire/ex/metal_rib_01_d.jpg
+
+newmtl slot357
+map_Kd packages/textures/yves_allaire/ex/trim_psimple_05_d.jpg
+
+newmtl slot358
+map_Kd packages/textures/yves_allaire/ex/mtl_panel_03_d.jpg
+
+newmtl slot359
+map_Kd packages/textures/yves_allaire/ex/mtl_panel_03_d.jpg
+
+newmtl slot360
+map_Kd packages/textures/yves_allaire/ex/q2_01e_d.jpg
+
+newmtl slot361
+map_Kd packages/philipk/pk01_trim04b_d.jpg
+
+newmtl slot363
+map_Kd packages/textures/yves_allaire/ex/mtl_panel_03_d.jpg
+
+newmtl slot364
+map_Kd packages/textures/yves_allaire/ex/metal_plate_01b_d.jpg
+
+newmtl slot365
+map_Kd packages/textures/yves_allaire/ex/wall_u207_d.jpg
+
+newmtl slot367
+map_Kd packages/textures/yves_allaire/ex/floor_grate03_d.jpg
+
+newmtl slot368
+map_Kd packages/textures/yves_allaire/ex/wall_b01_d.jpg
+
+newmtl slot369
+map_Kd packages/textures/yves_allaire/ex/metal_wall_02_d.jpg
+
+newmtl slot370
+map_Kd packages/textures/yves_allaire/ex/metal_base_03_d.jpg
+
+newmtl slot373
+map_Kd packages/textures/yves_allaire/ex/light_u201_d.jpg
+
+newmtl slot374
+map_Kd packages/textures/yves_allaire/ex/light_u201_d.jpg
+
+newmtl slot375
+map_Kd packages/textures/yves_allaire/ex/light_u201_d.jpg
+
+newmtl slot376
+map_Kd packages/textures/yves_allaire/ex/metal_base_03_d.jpg
+
+newmtl slot377
+map_Kd packages/textures/yves_allaire/ex/metal_base_03_d.jpg
+
+newmtl slot378
+map_Kd packages/textures/yves_allaire/ex/lightpanel_01_d.jpg
+
+newmtl slot379
+map_Kd packages/textures/yves_allaire/ex/metal_base_03_d.jpg
+
+newmtl slot382
+map_Kd packages/textures/yves_allaire/ex/light_u201_d.jpg
+
+newmtl slot383
+map_Kd packages/textures/yves_allaire/ex/metal_base_03_d.jpg
+
+newmtl slot385
+map_Kd packages/textures/medieval_soc/stone_trim1.jpg
+
+newmtl slot386
+map_Kd packages/textures/medieval_soc/stone_trim1.jpg
+
+newmtl slot387
+map_Kd packages/textures/medieval_soc/stone_trim1.jpg
+
+newmtl slot388
+map_Kd packages/textures/yves_allaire/ex/light_u201_d.jpg
+
+newmtl slot389
+map_Kd packages/textures/yves_allaire/ex/light_u201_d.jpg
+
+newmtl slot390
+map_Kd packages/textures/yves_allaire/ex/light_u201_d.jpg
+
+newmtl slot391
+map_Kd packages/textures/yves_allaire/ex/light_u201_d.jpg
+
+newmtl slot392
+map_Kd packages/textures/yves_allaire/ex/rplates_01_d.jpg
+
+newmtl slot393
+map_Kd packages/textures/medieval_soc/stone_trim1.jpg
+
+newmtl slot394
+map_Kd packages/textures/yves_allaire/ex/floor_grate03_d.jpg
+
+newmtl slot395
+map_Kd packages/textures/yves_allaire/ex/floor_grate03_d.jpg
+
+newmtl slot396
+map_Kd packages/textures/yves_allaire/ex/floor_grate03_d.jpg
+
+newmtl slot397
+map_Kd packages/textures/yves_allaire/ex/lightpanel_01_d.jpg
+
+newmtl slot398
+map_Kd packages/textures/yves_allaire/ex/lightpanel_01_d.jpg
+
+newmtl slot399
+map_Kd packages/textures/yves_allaire/ex/metal_rib_01_d.jpg
+
+newmtl slot400
+map_Kd packages/textures/yves_allaire/ex/floor_mtl_wrn_01_d.jpg
+
+newmtl slot401
+map_Kd packages/textures/yves_allaire/ex/wall_bigrib_02_d.jpg
+
+newmtl slot403
+map_Kd packages/textures/medieval_soc/floor_steptop1c.jpg
+
+newmtl slot404
+map_Kd packages/textures/yves_allaire/ex/trim_01_d.jpg
+
+newmtl slot405
+map_Kd packages/textures/yves_allaire/ex/floor_mtl_wrn_01_d.jpg
+
+newmtl slot406
+map_Kd packages/textures/yves_allaire/ex/light_u201_d.jpg
+
+newmtl slot407
+map_Kd packages/textures/yves_allaire/ex/floor_mtl_wrn_01_d.jpg
+
+newmtl slot408
+map_Kd packages/textures/yves_allaire/ex/metal_supp_01_d.jpg
+
+newmtl slot409
+map_Kd packages/textures/yves_allaire/ex/metal_plate_01c_d.jpg
+
+newmtl slot410
+map_Kd packages/textures/yves_allaire/ex/light_u201_d.jpg
+
+newmtl slot411
+map_Kd packages/mitaman/mm-window5.jpg
+
+newmtl slot412
+map_Kd packages/textures/yves_allaire/ex/lightpanel_01_d.jpg
+
+newmtl slot413
+map_Kd packages/textures/yves_allaire/ex/lightpanel_01_d.jpg
+
+newmtl slot414
+map_Kd packages/textures/yves_allaire/ex/light_u201_d.jpg
+
+newmtl slot415
+map_Kd packages/textures/yves_allaire/ex/metal_base_03_d.jpg
+
+newmtl slot416
+map_Kd packages/textures/yves_allaire/ex/light_u201_d.jpg
+
+newmtl slot419
+map_Kd packages/textures/yves_allaire/ex/metal_base_03_d.jpg
+
+newmtl slot420
+map_Kd packages/textures/yves_allaire/ex/metal_base_03_d.jpg
+
+newmtl slot421
+map_Kd packages/textures/yves_allaire/ex/floor_mtl_grate_01_d.jpg
+
+newmtl slot422
+map_Kd packages/textures/medieval_soc/wood_grey.jpg
+
+newmtl slot424
+map_Kd packages/textures/yves_allaire/ex/metal_base_03_d.jpg
+
+newmtl slot426
+map_Kd packages/textures/yves_allaire/ex/metal_wall_02_d.jpg
+
+newmtl slot428
+map_Kd packages/textures/yves_allaire/ex/lightpanel_01_d.jpg
+
+newmtl slot430
+map_Kd packages/textures/medieval_soc/stone_trim1.jpg
+
+newmtl slot431
+map_Kd packages/textures/medieval_soc/stone_trim1.jpg
+
+newmtl slot436
+map_Kd packages/philipk/pk01_pan_floor02b_d.jpg
+
+newmtl slot437
+map_Kd packages/textures/medieval_soc/stone_trim1.jpg
+
+newmtl slot438
+map_Kd packages/textures/medieval_soc/stone_trim1.jpg
+
+newmtl slot439
+map_Kd packages/textures/medieval_soc/stone_trim1.jpg
+
+newmtl slot440
+map_Kd packages/textures/yves_allaire/ex/trim_vert_01_d.jpg
+
+newmtl slot441
+map_Kd packages/textures/yves_allaire/ex/trim_vert_01_d.jpg
+
+newmtl slot442
+map_Kd packages/textures/yves_allaire/ex/metal_base_07_rust_d.jpg
+
+newmtl slot443
+map_Kd packages/textures/yves_allaire/ex/trim_vert_01_d.jpg
+
+newmtl slot445
+map_Kd packages/textures/medieval_soc/stone_trim1.jpg
+
+newmtl slot446
+map_Kd packages/textures/yves_allaire/ex/trim_vert_01_d.jpg
+
+newmtl slot447
+map_Kd packages/textures/yves_allaire/ex/floor_mtl_wrn_01_d.jpg
+
+newmtl slot448
+map_Kd packages/mitaman/mm-metalbase2.jpg
+
+newmtl slot449
+map_Kd packages/textures/yves_allaire/ex/lightpanel_01_d.jpg
+
+newmtl slot450
+map_Kd packages/textures/medieval_soc/stone_trim1.jpg
+
+newmtl slot451
+map_Kd packages/textures/yves_allaire/ex/floor_mtl_wrn_01_d.jpg
+
+newmtl slot452
+map_Kd packages/textures/yves_allaire/ex/floor_mtl_wrn_01_d.jpg
+
+newmtl slot453
+map_Kd packages/textures/yves_allaire/ex/floor_mtl_wrn_01_d.jpg
+
+newmtl slot454
+map_Kd packages/textures/yves_allaire/ex/wall_bigrib_02_d.jpg
+
+newmtl slot455
+map_Kd packages/textures/yves_allaire/ex/wall_bigrib_02_d.jpg
+
+newmtl slot456
+map_Kd packages/textures/yves_allaire/ex/floor_simplines_d.jpg
+
+newmtl slot457
+map_Kd packages/textures/yves_allaire/ex/trim_psimple_04_d.jpg
+
+newmtl slot458
+map_Kd packages/textures/yves_allaire/ex/trim_vert_01_d.jpg
+
+newmtl slot459
+map_Kd packages/textures/yves_allaire/ex/lightpanel_01_d.jpg
+
+newmtl slot460
+map_Kd packages/textures/yves_allaire/ex/lightpanel_01_d.jpg
+
+newmtl slot461
+map_Kd packages/textures/yves_allaire/ex/lightpanel_01_d.jpg
+
+newmtl slot462
+map_Kd packages/textures/yves_allaire/ex/lightpanel_01_d.jpg
+
+newmtl slot463
+map_Kd packages/philipk/pk01_trim08b_d.jpg
+
+newmtl slot464
+map_Kd packages/textures/yves_allaire/ex/trim_support_03_d.jpg
+
+newmtl slot465
+map_Kd packages/textures/medieval_soc/wood_brownlight.jpg
+
+newmtl slot466
+map_Kd packages/mitaman/mm-grill_b.jpg
+
+newmtl slot467
+map_Kd packages/lunaran/qcomp4_d.jpg
+
+newmtl slot468
+map_Kd packages/lunaran/qcomp4_d.jpg
+
+newmtl slot469
+map_Kd packages/textures/yves_allaire/ex/lightpanel_01_d.jpg
+
+newmtl slot491
+map_Kd packages/textures/yves_allaire/ex/q2_01e_d.jpg
+
+newmtl slot492
+map_Kd packages/textures/medieval_soc/stone_trim1.jpg
+
+newmtl slot493
+map_Kd packages/textures/medieval_soc/stone_trim1.jpg
+
+newmtl slot494
+map_Kd packages/textures/yves_allaire/ex/lightpanel_01_d.jpg
+
+newmtl slot495
+map_Kd packages/textures/yves_allaire/ex/wall_bigrib_02_d.jpg
+
+newmtl slot496
+map_Kd packages/textures/yves_allaire/ex/wall_bigrib_02_d.jpg
+
+newmtl slot497
+map_Kd packages/philipk/pk01_trim04b_d.jpg
+
+newmtl slot498
+map_Kd packages/textures/yves_allaire/ex/wall_01_d.jpg
+
+newmtl slot499
+map_Kd packages/textures/medieval_soc/light1.jpg
+
+newmtl slot502
+map_Kd packages/textures/yves_allaire/ex/rndfloor_02_d.jpg
+
+newmtl slot503
+map_Kd packages/mitaman/mm-bricksmall121.jpg
+
+newmtl slot505
+map_Kd packages/mitaman/mm-metalbase2.jpg
+
+newmtl slot506
+map_Kd packages/mitaman/mm-panel3.jpg
+
+newmtl slot508
+map_Kd packages/mitaman/mm-window5.jpg
+
+newmtl slot509
+map_Kd packages/mitaman/mm-window5.jpg
+
+newmtl slot510
+map_Kd packages/mitaman/mm-window5.jpg
+
+newmtl slot511
+map_Kd packages/mitaman/mm-window5.jpg
+
+newmtl slot512
+map_Kd packages/textures/yves_allaire/ex/metal_base_02_d.jpg
+
+newmtl slot514
+map_Kd packages/textures/yves_allaire/ex/wall_01_d.jpg
+
+newmtl slot515
+map_Kd packages/textures/yves_allaire/ex/floor_simplines_d.jpg
+
+newmtl slot516
+map_Kd packages/textures/yves_allaire/ex/metal_wall_02_d.jpg
+
+newmtl slot517
+map_Kd packages/textures/yves_allaire/ex/metal_wall_02_d.jpg
+
+newmtl slot518
+map_Kd packages/textures/yves_allaire/ex/floor_simplines_d.jpg
+
+newmtl slot519
+map_Kd packages/textures/yves_allaire/ex/wall_b01_d.jpg
+
+newmtl slot520
+map_Kd packages/textures/yves_allaire/ex/wall_panel_05_d.jpg
+
+newmtl slot521
+map_Kd packages/textures/yves_allaire/ex/wall_01b_d.jpg
+
+newmtl slot522
+map_Kd packages/textures/yves_allaire/ex/wall_01b_d.jpg
+
+newmtl slot523
+map_Kd packages/textures/yves_allaire/ex/trim_psimple_04_d.jpg
+
+newmtl slot525
+map_Kd packages/textures/yves_allaire/ex/wall_panel_05_d.jpg
+
+newmtl slot526
+map_Kd packages/textures/yves_allaire/ex/wall_panel_05_d.jpg
+
+newmtl slot527
+map_Kd packages/textures/yves_allaire/ex/lightpanel_01_d.jpg
+
+newmtl slot528
+map_Kd packages/textures/yves_allaire/ex/steptop_01_d.jpg
+
+newmtl slot529
+map_Kd packages/textures/yves_allaire/ex/steptop_01_d.jpg
+
+newmtl slot530
+map_Kd packages/textures/yves_allaire/ex/floor_simplines_d.jpg
+
+newmtl slot531
+map_Kd packages/textures/yves_allaire/ex/wall_b01_d.jpg
+
+newmtl slot532
+map_Kd packages/textures/yves_allaire/ex/floor_grate03_d.jpg
+
+newmtl slot533
+map_Kd packages/textures/yves_allaire/ex/floor_grate03_d.jpg
+
+newmtl slot534
+map_Kd packages/textures/yves_allaire/ex/floor_grate03_d.jpg
+
+newmtl slot535
+map_Kd packages/textures/medieval_soc/stone_trim1.jpg
+
+newmtl slot536
+map_Kd packages/mitaman/mm-meters12a.jpg
+
+newmtl slot537
+map_Kd packages/lunaran/qcomp4_d.jpg
+
+newmtl slot538
+map_Kd packages/textures/medieval_soc/floor_steptop1c.jpg
+
+newmtl slot539
+map_Kd packages/textures/medieval_soc/floor_steptop1c.jpg
+
+newmtl slot540
+map_Kd packages/mitaman/mm-panel1.jpg
+
+newmtl slot541
+map_Kd packages/textures/medieval_soc/floor_steptop1c.jpg
+
+newmtl slot544
+map_Kd packages/textures/medieval_soc/stone_trim1.jpg
+
+newmtl slot546
+map_Kd packages/textures/yves_allaire/ex/trim_baseboard_d.jpg
+
+newmtl slot547
+map_Kd packages/textures/medieval_soc/stone_trim1.jpg
+
+newmtl slot551
+map_Kd packages/textures/yves_allaire/ex/floor_mtl_grate_01_d.jpg
+
+newmtl slot554
+map_Kd packages/textures/medieval_soc/light1.jpg
+
+newmtl slot555
+map_Kd packages/textures/yves_allaire/ex/wall_01_d.jpg
+
+newmtl slot556
+map_Kd packages/textures/yves_allaire/ex/light_u201_d.jpg
+
+newmtl slot557
+map_Kd packages/textures/yves_allaire/ex/wall_panel_05_d.jpg
+
+newmtl slot558
+map_Kd packages/textures/yves_allaire/ex/wall_panel_05_d.jpg
+
+newmtl slot559
+map_Kd packages/textures/yves_allaire/ex/light_u201_d.jpg
+
+newmtl slot560
+map_Kd packages/textures/yves_allaire/ex/light_u201_d.jpg
+
+newmtl slot561
+map_Kd packages/textures/yves_allaire/ex/light_u201_d.jpg
+
+newmtl slot562
+map_Kd packages/textures/yves_allaire/ex/light_u201_d.jpg
+
+newmtl slot563
+map_Kd packages/textures/yves_allaire/ex/light_u201_d.jpg
+
+newmtl slot564
+map_Kd packages/textures/yves_allaire/ex/light_u201_d.jpg
+
+newmtl slot565
+map_Kd packages/textures/yves_allaire/ex/light_u201_d.jpg
+
+newmtl slot566
+map_Kd packages/textures/yves_allaire/ex/light_u201_d.jpg
+
+newmtl slot567
+map_Kd packages/textures/yves_allaire/ex/light_u201_d.jpg
+
+newmtl slot568
+map_Kd packages/textures/yves_allaire/ex/light_u201_d.jpg
+
+newmtl slot569
+map_Kd packages/textures/yves_allaire/ex/mtl_panel_04_d.jpg
+
+newmtl slot570
+map_Kd packages/textures/yves_allaire/ex/mtl_panel_04_d.jpg
+
+newmtl slot571
+map_Kd packages/textures/yves_allaire/ex/metal_base_02_d.jpg
+
+newmtl slot572
+map_Kd packages/textures/yves_allaire/ex/wall_01b_d.jpg
+
+newmtl slot573
+map_Kd packages/textures/yves_allaire/ex/floor_mtl_grate_01_d.jpg
+
+newmtl slot574
+map_Kd packages/mitaman/mm-metaldoor3.jpg
+
+newmtl slot575
+map_Kd packages/textures/yves_allaire/ex/wall_panel_05_d.jpg
+
+newmtl slot576
+map_Kd packages/textures/yves_allaire/ex/wall_panel_05_d.jpg
+
+newmtl slot577
+map_Kd packages/textures/yves_allaire/ex/metal_base_03_d.jpg
+
+newmtl slot578
+map_Kd packages/textures/yves_allaire/ex/metal_base_03_d.jpg
+
+newmtl slot580
+map_Kd packages/textures/yves_allaire/ex/trim_simple_01_d.jpg
+
+newmtl slot581
+map_Kd packages/textures/yves_allaire/ex/wall_panel_05_d.jpg
+
+newmtl slot582
+map_Kd packages/textures/yves_allaire/ex/wall_panel_05_d.jpg
+
+newmtl slot583
+map_Kd packages/textures/yves_allaire/ex/wall_panel_05_d.jpg
+
+newmtl slot585
+map_Kd packages/textures/yves_allaire/ex/metal_plate_01b_d.jpg
+
+newmtl slot587
+map_Kd packages/textures/yves_allaire/ex/trim_vert_01_d.jpg
+
+newmtl slot588
+map_Kd packages/textures/yves_allaire/ex/mtl_bigplate_04_d.jpg
+
+newmtl slot589
+map_Kd packages/textures/yves_allaire/ex/lightpanel_01_d.jpg
+
+newmtl slot590
+map_Kd packages/textures/yves_allaire/ex/lightpanel_01_d.jpg
+
+newmtl slot591
+map_Kd packages/mitaman/mm-panel3.jpg
+
+newmtl slot592
+map_Kd packages/mitaman/mm-panel3.jpg
+
+newmtl slot593
+map_Kd packages/textures/yves_allaire/ex/light_u201_d.jpg
+
+newmtl slot594
+map_Kd packages/textures/yves_allaire/ex/trim_psimple_04_d.jpg
+
+newmtl slot595
+map_Kd packages/textures/yves_allaire/ex/lightpanel_01_d.jpg
+
+newmtl slot596
+map_Kd packages/textures/yves_allaire/ex/wall_01_d.jpg
+
+newmtl slot597
+map_Kd packages/lunaran/qcomp4_d.jpg
+
+newmtl slot599
+map_Kd packages/textures/yves_allaire/ex/metal_base_02_d.jpg
+
+newmtl slot600
+map_Kd packages/textures/yves_allaire/ex/trim_vert_01_d.jpg
+
+newmtl slot601
+map_Kd packages/textures/yves_allaire/ex/trim_vert_01_d.jpg
+
+newmtl slot602
+map_Kd packages/textures/yves_allaire/ex/trim_vert_01_d.jpg
+
+newmtl slot603
+map_Kd packages/textures/yves_allaire/ex/trim_vert_01_d.jpg
+
+newmtl slot608
+map_Kd packages/textures/yves_allaire/ex/rplates_01_d.jpg
+
+newmtl slot609
+map_Kd packages/textures/yves_allaire/ex/rplates_01_d.jpg
+
+newmtl slot610
+map_Kd packages/textures/yves_allaire/ex/floor_grate03_d.jpg
+
+newmtl slot611
+map_Kd packages/textures/yves_allaire/ex/floor_grate03_d.jpg
+
+newmtl slot612
+map_Kd packages/textures/yves_allaire/ex/floor_grate03_d.jpg
+
+newmtl slot613
+map_Kd packages/textures/yves_allaire/ex/wall_b01_d.jpg
+
+newmtl slot614
+map_Kd packages/textures/yves_allaire/ex/floor_simplines_d.jpg
+
+newmtl slot615
+map_Kd packages/textures/yves_allaire/ex/floor_simplines_d.jpg
+
+newmtl slot616
+map_Kd packages/textures/yves_allaire/ex/wall_01_d.jpg
+
+newmtl slot617
+map_Kd packages/textures/yves_allaire/ex/floor_simplines_d.jpg
+
+newmtl slot618
+map_Kd packages/textures/yves_allaire/ex/floor_simplines_d.jpg
+
+newmtl slot619
+map_Kd packages/textures/yves_allaire/ex/floor_simplines_d.jpg
+
+newmtl slot620
+map_Kd packages/textures/yves_allaire/ex/wall_b01_d.jpg
+
+newmtl slot621
+map_Kd packages/textures/yves_allaire/ex/floor_simplines_d.jpg
+
+newmtl slot622
+map_Kd packages/textures/yves_allaire/ex/floor_simplines_d.jpg
+
+newmtl slot623
+map_Kd packages/textures/yves_allaire/ex/floor_simplines_d.jpg
+
+newmtl slot624
+map_Kd packages/textures/yves_allaire/ex/floor_simplines_d.jpg
+
+newmtl slot625
+map_Kd packages/textures/yves_allaire/ex/floor_simplines_d.jpg
+
+newmtl slot626
+map_Kd packages/textures/yves_allaire/ex/metal_base_05_rust_d.jpg
+
+newmtl slot627
+map_Kd packages/textures/yves_allaire/ex/lightpanel_01_d.jpg
+
+newmtl slot629
+map_Kd packages/textures/yves_allaire/ex/clangfloor_01_d.jpg
+
+newmtl slot630
+map_Kd packages/textures/yves_allaire/ex/metal_base_01_d.jpg
+
+newmtl slot631
+map_Kd packages/textures/yves_allaire/ex/metal_base_02_d.jpg
+
+newmtl slot632
+map_Kd packages/textures/yves_allaire/ex/wall_panel_05_d.jpg
+
+newmtl slot633
+map_Kd packages/textures/yves_allaire/ex/wall_panel_05_d.jpg
+
+newmtl slot635
+map_Kd packages/textures/yves_allaire/ex/wall_01_d.jpg
+
+newmtl slot636
+map_Kd packages/lunaran/qcomp4_d.jpg
+
+newmtl slot640
+map_Kd packages/textures/yves_allaire/ex/trim_vert_01_d.jpg
+
+newmtl slot643
+map_Kd packages/textures/yves_allaire/ex/lightpanel_01_d.jpg
+
+newmtl slot644
+map_Kd packages/textures/yves_allaire/ex/lightpanel_01_d.jpg
+
+newmtl slot645
+map_Kd packages/textures/yves_allaire/ex/lightpanel_01_d.jpg
+
+newmtl slot646
+map_Kd packages/textures/yves_allaire/ex/lightpanel_01_d.jpg
+
+newmtl slot648
+map_Kd packages/textures/yves_allaire/ex/light_u201_d.jpg
+
+newmtl slot649
+map_Kd packages/textures/yves_allaire/ex/light_u201_d.jpg
+
+newmtl slot650
+map_Kd packages/textures/yves_allaire/ex/light_u201_d.jpg
+
+newmtl slot651
+map_Kd packages/textures/yves_allaire/ex/light_u201_d.jpg
+
+newmtl slot652
+map_Kd packages/textures/yves_allaire/ex/light_u201_d.jpg
+
+newmtl slot653
+map_Kd packages/textures/medieval_soc/stone_trim1.jpg
+
+newmtl slot654
+map_Kd packages/philipk/pk01_trim04b_d.jpg
+
+newmtl slot655
+map_Kd packages/textures/yves_allaire/ex/mtl_bigplate_04_d.jpg
+
+newmtl slot656
+map_Kd packages/textures/medieval_soc/stone_trim1.jpg
+
+newmtl slot658
+map_Kd packages/textures/yves_allaire/ex/metal_base_06_rust_d.jpg
+
+newmtl slot659
+map_Kd packages/textures/medieval_soc/light1.jpg
+
+newmtl slot661
+map_Kd packages/mitaman/mm-tiles126.jpg
+
+newmtl slot662
+map_Kd packages/mitaman/mm-tiles126.jpg
+
+newmtl slot663
+map_Kd packages/mitaman/mm-tiles126.jpg
+
+newmtl slot665
+map_Kd packages/mitaman/mm-tiles126.jpg
+
+newmtl slot666
+map_Kd packages/mitaman/mm-tiles126.jpg
+
+newmtl slot667
+map_Kd packages/mitaman/mm-tiles126.jpg
+
+newmtl slot668
+map_Kd packages/mitaman/mm-tiles126.jpg
+
+newmtl slot669
+map_Kd packages/mitaman/mm-wood-worn.jpg
+
+newmtl slot670
+map_Kd packages/textures/yves_allaire/ex/metal_plate_01c_d.jpg
+
+newmtl slot672
+map_Kd packages/textures/medieval_soc/stone_trim1.jpg
+
+newmtl slot674
+map_Kd packages/textures/medieval_soc/light1.jpg
+
+newmtl slot675
+map_Kd packages/textures/yves_allaire/ex/lightpanel_01_d.jpg
+
+newmtl slot676
+map_Kd packages/textures/medieval_soc/stone_trim1.jpg
+
+newmtl slot677
+map_Kd packages/textures/yves_allaire/ex/trim_vert_01_d.jpg
+
+newmtl slot678
+map_Kd packages/textures/yves_allaire/ex/trim_vert_01_d.jpg
+
+newmtl slot679
+map_Kd packages/textures/yves_allaire/ex/trim_vert_01_d.jpg
+
+newmtl slot682
+map_Kd packages/textures/yves_allaire/ex/lightpanel_01_d.jpg
+
+newmtl slot683
+map_Kd packages/textures/yves_allaire/ex/lightpanel_01_d.jpg
+
+newmtl slot684
+map_Kd packages/textures/yves_allaire/ex/lightpanel_01_d.jpg
+
+newmtl slot685
+map_Kd packages/textures/yves_allaire/ex/lightpanel_01_d.jpg
+
+newmtl slot686
+map_Kd packages/textures/yves_allaire/ex/lightpanel_01_d.jpg
+
+newmtl slot687
+map_Kd packages/textures/yves_allaire/ex/lightpanel_01_d.jpg
+
+newmtl slot691
+map_Kd packages/textures/yves_allaire/ex/lightpanel_01_d.jpg
+
+newmtl slot692
+map_Kd packages/textures/yves_allaire/ex/floor_grate03_d.jpg
+
+newmtl slot693
+map_Kd packages/textures/yves_allaire/ex/floor_grate03_d.jpg
+

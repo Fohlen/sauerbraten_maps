@@ -1,0 +1,77 @@
+# mtl file of Cube 2 level
+
+newmtl slot20
+map_Kd packages/dg/floor_soil&grave3.jpg
+
+newmtl slot144
+map_Kd packages/ik2k/ik_wpaperplain128c.jpg
+
+newmtl slot146
+map_Kd packages/ik2k/ik_wpaperplain128e.jpg
+
+newmtl slot152
+map_Kd packages/ikbase/ik_floor_conc128b.jpg
+
+newmtl slot187
+map_Kd packages/payne/Box12b.jpg
+
+newmtl slot189
+map_Kd packages/payne/Brick58_512x512.jpg
+
+newmtl slot228
+map_Kd packages/egyptsoc/032-03a.jpg
+
+newmtl slot350
+map_Kd packages/rorschach/4_conc_floor01.jpg
+
+newmtl slot351
+map_Kd packages/rorschach/4_met01.jpg
+
+newmtl slot417
+map_Kd packages/lunaran/glue1_d.jpg
+
+newmtl slot607
+map_Kd packages/gor/ST_GK_003_cc.jpg
+
+newmtl slot628
+map_Kd packages/gor/WT_GK_008_cc.jpg
+
+newmtl slot647
+map_Kd packages/aftas/piso5.jpg
+
+newmtl slot662
+map_Kd packages/mitaman/mm-tile38.jpg
+
+newmtl slot673
+map_Kd packages/mitaman/mm-brick13.jpg
+
+newmtl slot700
+map_Kd packages/mitaman/mm-wood-worn.jpg
+
+newmtl slot701
+map_Kd packages/mitaman/mm-wood-worn.jpg
+
+newmtl slot710
+map_Kd packages/mitaman/mm-cementbase1.jpg
+
+newmtl slot736
+map_Kd packages/noctua/plast07.jpg
+
+newmtl slot737
+map_Kd packages/noctua/planks01.jpg
+
+newmtl slot738
+map_Kd packages/noctua/planks01.jpg
+
+newmtl slot746
+map_Kd packages/g_pack/g-concrete05.jpg
+
+newmtl slot747
+map_Kd packages/textures/nieb/rock01.jpg
+
+newmtl slot1680
+map_Kd packages/mitaman/mm-wood-worn.jpg
+
+newmtl slot1681
+map_Kd packages/mitaman/mm-wood-worn.jpg
+

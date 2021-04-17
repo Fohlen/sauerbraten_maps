@@ -1,0 +1,161 @@
+# mtl file of Cube 2 level
+
+newmtl slot2
+map_Kd packages/lunaran/box1a_d.jpg
+
+newmtl slot3
+map_Kd packages/lunaran/box1b_d.jpg
+
+newmtl slot4
+map_Kd packages/lunaran/glue1_d.jpg
+
+newmtl slot6
+map_Kd packages/lunaran/grate1_d.jpg
+
+newmtl slot7
+map_Kd packages/lunaran/green1_d.jpg
+
+newmtl slot8
+map_Kd packages/lunaran/hexflr1_d.jpg
+
+newmtl slot9
+map_Kd packages/lunaran/hexflr2_d.jpg
+
+newmtl slot10
+map_Kd packages/lunaran/panel128tri_1_d.jpg
+
+newmtl slot11
+map_Kd packages/lunaran/panel128_1_d.jpg
+
+newmtl slot12
+map_Kd packages/lunaran/panel128_2_d.jpg
+
+newmtl slot13
+map_Kd packages/lunaran/panel128_3b_d.jpg
+
+newmtl slot14
+map_Kd packages/lunaran/panel128_3_d.jpg
+
+newmtl slot17
+map_Kd packages/lunaran/panel64tri_1_d.jpg
+
+newmtl slot18
+map_Kd packages/lunaran/panel64_0_d.jpg
+
+newmtl slot19
+map_Kd packages/lunaran/panel64_1_d.jpg
+
+newmtl slot20
+map_Kd packages/lunaran/panel64_2a_d.jpg
+
+newmtl slot21
+map_Kd packages/lunaran/panel64_2b_d.jpg
+
+newmtl slot22
+map_Kd packages/lunaran/panel64_2_d.jpg
+
+newmtl slot23
+map_Kd packages/lunaran/panel64_3b_d.jpg
+
+newmtl slot24
+map_Kd packages/lunaran/panel64_3_d.jpg
+
+newmtl slot25
+map_Kd packages/lunaran/panel64_4_d.jpg
+
+newmtl slot27
+map_Kd packages/lunaran/panel64_5b_d.jpg
+
+newmtl slot28
+map_Kd packages/lunaran/panel64_5_d.jpg
+
+newmtl slot30
+map_Kd packages/lunaran/panel64_6_d.jpg
+
+newmtl slot31
+map_Kd packages/lunaran/panel64_7b_d.jpg
+
+newmtl slot32
+map_Kd packages/lunaran/panel64_7c_d.jpg
+
+newmtl slot33
+map_Kd packages/lunaran/panel64_7d_d.jpg
+
+newmtl slot34
+map_Kd packages/lunaran/panel64_7_d.jpg
+
+newmtl slot35
+map_Kd packages/lunaran/pwpip1_d.jpg
+
+newmtl slot36
+map_Kd packages/lunaran/qcomp1_d.jpg
+
+newmtl slot37
+map_Kd packages/lunaran/qcomp2_d.jpg
+
+newmtl slot38
+map_Kd packages/lunaran/qcomp3_d.jpg
+
+newmtl slot40
+map_Kd packages/lunaran/support1_d.jpg
+
+newmtl slot42
+map_Kd packages/lunaran/cord1_d.jpg
+
+newmtl slot44
+map_Kd packages/lunaran/light_fifty1_d.jpg
+
+newmtl slot45
+map_Kd packages/lunaran/light_fifty2_d.jpg
+
+newmtl slot46
+map_Kd packages/lunaran/light_fifty_d.jpg
+
+newmtl slot56
+map_Kd packages/lunaran/qcomp1g_d.jpg
+
+newmtl slot57
+map_Kd packages/lunaran/qcomp4_d.jpg
+
+newmtl slot59
+map_Kd packages/lunaran/light_fifty1_d.jpg
+
+newmtl slot60
+map_Kd packages/lunaran/glue1_d.jpg
+
+newmtl slot61
+map_Kd packages/lunaran/support1_d.jpg
+
+newmtl slot62
+map_Kd packages/lunaran/pwpip1_d.jpg
+
+newmtl slot63
+map_Kd packages/lunaran/panel64_2b_d.jpg
+
+newmtl slot64
+map_Kd packages/satan/lm_lightsm_d.jpg
+
+newmtl slot65
+map_Kd packages/satan/lm_lightsm_d.jpg
+
+newmtl slot66
+map_Kd packages/satan/sr_back_832_d.jpg
+
+newmtl slot67
+map_Kd packages/satan/sr_back_832_d.jpg
+
+newmtl slot68
+map_Kd packages/satan/sr_black128.jpg
+
+newmtl slot69
+map_Kd packages/satan/sr_black128.jpg
+
+newmtl slot417
+map_Kd packages/lunaran/bigmet2_d.jpg
+
+newmtl slot512
+map_Kd packages/lunaran/bigmet2_d.jpg
+
+newmtl slot1792
+map_Kd packages/lunaran/bigmet2_d.jpg
+
